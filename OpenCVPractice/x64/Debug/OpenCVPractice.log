@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\imgproc.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\stitching\detail\motion_estimators.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\librarys\opencv\build\include\opencv2\video\tracking.hpp(532): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\alanshih\desktop\corcppprojects\opencvpractice\opencvpractice\main.cpp(10): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\alanshih\desktop\corcppprojects\opencvpractice\opencvpractice\main.cpp(28): warning C4244: '引數': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+c:\users\alanshih\desktop\corcppprojects\opencvpractice\opencvpractice\main.cpp(50): warning C4244: '正在初始化': 將 'const int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\alanshih\desktop\corcppprojects\opencvpractice\opencvpractice\main.cpp(50): warning C4244: '正在初始化': 將 'const int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\alanshih\desktop\corcppprojects\opencvpractice\opencvpractice\main.cpp(80): warning C4244: '引數': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+  OpenCVPractice.vcxproj -> C:\Users\AlanShih\Desktop\CorCppProjects\OpenCVPractice\x64\Debug\OpenCVPractice.exe
+  OpenCVPractice.vcxproj -> C:\Users\AlanShih\Desktop\CorCppProjects\OpenCVPractice\x64\Debug\OpenCVPractice.pdb (Partial PDB)

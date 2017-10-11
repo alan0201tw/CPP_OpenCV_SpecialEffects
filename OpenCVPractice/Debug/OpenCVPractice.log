@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\alanshih\desktop\corcppprojects\opencvpractice\opencvpractice\main.cpp(3): fatal error C1083: 無法開啟包含檔案: 'opencv2/opencv.hpp': No such file or directory
